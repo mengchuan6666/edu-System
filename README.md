@@ -123,6 +123,6 @@ springboot+layui在线教育平台系统
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0125/154325_b01403aa_7604956.png "屏幕截图.png")
 
-**欢迎大家一起交流学习，共同进步。技术交流群，请加小孟微信：**
+**需要系统的sql文件或者进入技术交流群请加微信：**
 
-<div align=center><img width="250" height="250" src="https://images.gitee.com/uploads/images/2020/1219/203754_ef21dcd8_7604956.png"/></div>
+<div align=center><img width="250" height="250" src="https://images.gitee.com/uploads/images/2021/0126/110318_69602a4b_7604956.png"/></div>
